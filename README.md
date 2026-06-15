@@ -92,14 +92,20 @@ The repository contains many ready-to-use pages, including:
 ### Flights
 ![Flights](./assets/images/flights.png)
 
+### Flights Booking
+![Flights Booking](./assets/images/flights-booking.png)
+
 ### Hotels
 ![Hotels](./assets/images/hotels.png)
 
 ### Tours
 ![Tours](./assets/images/tours.png)
 
-### Booking Confirmation
-![Booking Confirmation](./assets/images/booking-confirmation.png)
+### News
+![News](./assets/images/news.png)
+
+### Countact
+![Countact](./assets/images/contact.png)
 
 ---
 
@@ -108,4 +114,11 @@ The repository contains many ready-to-use pages, including:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Islam412/Booking-System-frontend.git
+
+
+2. Open the project folder.
+   ```bash
+   Run with any static server or open index.html directly.
+
+(If you want, I can also write a simple “serve locally” command for VS Code Live Server or Node.)
 
